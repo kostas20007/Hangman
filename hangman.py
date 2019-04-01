@@ -84,7 +84,7 @@ clear = lambda: os.system('cls')
 
 
 import random
-word_list=['attention','something','significant','earth','teacher','school','television','',
+word_list=['attention','something','significant','earth','teacher','school','television','global',
            'table','defender','street','device','balcony','house',
            'ministry','liberty','bottle','conversation','drink','paper',
            'plate','border','pillow','curtain','independent','sandwich',
