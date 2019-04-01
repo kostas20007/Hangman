@@ -17,7 +17,6 @@ def printing():
 def inputing():
     
     global lives
-    #print(len(word_list))
     let=input("\nEnter a letter: ")
     clear()
     if let in word:
@@ -97,7 +96,6 @@ while True:
     
     i=random.randrange(len(word_list)-1)
     word=word_list[i]
-    #word="television"
     z=[word[0],word[(len(word)-1)]]
     wl=[]
 
